@@ -16,4 +16,5 @@ It is the code of the paper _''Factor Screening using Bayesian Active Learning a
 Step 1: add all files into matlab path
 
 Step 2: run the file '\allcodes\active_gp_hyperlearning\demo\MyDemo2D.m' for the synthetic data
+
         run the file '\allcodes\active_gp_hyperlearning\demo\MyDemoRealData.m' for the real data
